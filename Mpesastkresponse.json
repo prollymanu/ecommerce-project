@@ -1,0 +1,211 @@
+Access Token Response: {
+            "access_token": "7FgmwO6fbMlUoImgZZ4rTTNwQRGP",
+            "expires_in": "3599"
+        }
+        
+Access Token Response: {
+            "access_token": "FtzSDFHgw3CcognTRZyAKLLYqSxy",
+            "expires_in": "3599"
+        }
+        
+Access Token Response: {
+            "access_token": "BnK1u3EzHi7zMLxW1ZtuAzzAJ5dj",
+            "expires_in": "3599"
+        }
+        
+STK Push Response: {
+                    "requestId":"bbcd-4a89-bd1a-6ecdc639893b40204",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid PhoneNumber"
+                }
+            
+Access Token Response: {
+            "access_token": "DKddW8GFzOCG8O6lbL2NOPvnUO8a",
+            "expires_in": "3599"
+        }
+        
+STK Push Response: {
+            "MerchantRequestID":"b63c-4f5b-830c-97562f598bca419222",
+            "CheckoutRequestID":"ws_CO_05122024181020912710338913",
+            "ResponseCode": "0",
+            "ResponseDescription":"Success. Request accepted for processing",
+            "CustomerMessage":"Success. Request accepted for processing"
+        }
+        
+Access Token Response: {
+            "access_token": "F50TFnBtGrtWeEzFw8MObrYd2AHV",
+            "expires_in": "3599"
+        }
+        
+STK Push Response: {
+                    "requestId":"aba0-4119-bd0a-28c60f0ef1ef416992",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid PhoneNumber"
+                }
+            
+Access Token Response: {
+            "access_token": "RDk7quQZjSrT4wh5k6Lv8TlzqB4A",
+            "expires_in": "3599"
+        }
+        
+STK Push Response: {
+            "MerchantRequestID":"b63c-4f5b-830c-97562f598bca419388",
+            "CheckoutRequestID":"ws_CO_05122024181554880710338913",
+            "ResponseCode": "0",
+            "ResponseDescription":"Success. Request accepted for processing",
+            "CustomerMessage":"Success. Request accepted for processing"
+        }
+        
+Access Token Response: {
+            "access_token": "6StKqPKut5e3Q9ftfbrJu20Pi40G",
+            "expires_in": "3599"
+        }
+        
+STK Push Response: {
+            "MerchantRequestID":"b54f-471d-93d9-f7f3bf3f7c0e40847",
+            "CheckoutRequestID":"ws_CO_05122024182032746748397984",
+            "ResponseCode": "0",
+            "ResponseDescription":"Success. Request accepted for processing",
+            "CustomerMessage":"Success. Request accepted for processing"
+        }
+        
+Access Token Response: {
+            "access_token": "McHg2C0ZNahy49zJBKMhLyO40oE2",
+            "expires_in": "3599"
+        }
+        
+STK Push Response: {
+            "MerchantRequestID":"b63c-4f5b-830c-97562f598bca423359",
+            "CheckoutRequestID":"ws_CO_05122024211437421702094444",
+            "ResponseCode": "0",
+            "ResponseDescription":"Success. Request accepted for processing",
+            "CustomerMessage":"Success. Request accepted for processing"
+        }
+        
+STK Push Response: {
+    "MerchantRequestID": "8db8-42b1-b82f-13000588c93722360",
+    "CheckoutRequestID": "ws_CO_06122024142042223710338913",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "MerchantRequestID": "bbcd-4a89-bd1a-6ecdc639893b58479",
+    "CheckoutRequestID": "ws_CO_06122024144133424710338913",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "MerchantRequestID": "bbcd-4a89-bd1a-6ecdc639893b58920",
+    "CheckoutRequestID": "ws_CO_06122024151252598710338913",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "MerchantRequestID": "bbcd-4a89-bd1a-6ecdc639893b59073",
+    "CheckoutRequestID": "ws_CO_06122024151940873710338913",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "MerchantRequestID": "b63c-4f5b-830c-97562f598bca444752",
+    "CheckoutRequestID": "ws_CO_06122024152338064710338913",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "MerchantRequestID": "b63c-4f5b-830c-97562f598bca445143",
+    "CheckoutRequestID": "ws_CO_06122024154252254710338913",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "MerchantRequestID": "aba0-4119-bd0a-28c60f0ef1ef453050",
+    "CheckoutRequestID": "ws_CO_07122024005644167748397984",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "MerchantRequestID": "b54f-471d-93d9-f7f3bf3f7c0e70768",
+    "CheckoutRequestID": "ws_CO_07122024011050109748397984",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "MerchantRequestID": "bbcd-4a89-bd1a-6ecdc639893b70864",
+    "CheckoutRequestID": "ws_CO_07122024011325381748397984",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "MerchantRequestID": "8db8-42b1-b82f-13000588c93735169",
+    "CheckoutRequestID": "ws_CO_07122024012128186113820212",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "MerchantRequestID": "b54f-471d-93d9-f7f3bf3f7c0e71018",
+    "CheckoutRequestID": "ws_CO_07122024012408610113820212",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "MerchantRequestID": "b63c-4f5b-830c-97562f598bca501941",
+    "CheckoutRequestID": "ws_CO_08122024145951281719529956",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "requestId": "8db8-42b1-b82f-13000588c93781070",
+    "errorCode": "400.002.02",
+    "errorMessage": "Bad Request - Invalid PhoneNumber"
+}
+STK Push Response: {
+    "requestId": "b63c-4f5b-830c-97562f598bca502417",
+    "errorCode": "400.002.02",
+    "errorMessage": "Bad Request - Invalid PhoneNumber"
+}
+STK Push Response: {
+    "requestId": "bbcd-4a89-bd1a-6ecdc639893b123447",
+    "errorCode": "400.002.02",
+    "errorMessage": "Bad Request - Invalid PhoneNumber"
+}
+STK Push Response: {
+    "MerchantRequestID": "bbcd-4a89-bd1a-6ecdc639893b123463",
+    "CheckoutRequestID": "ws_CO_08122024152311787710338913",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "MerchantRequestID": "aba0-4119-bd0a-28c60f0ef1ef499798",
+    "CheckoutRequestID": "ws_CO_08122024152551437715933874",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "MerchantRequestID": "b54f-471d-93d9-f7f3bf3f7c0e129174",
+    "CheckoutRequestID": "ws_CO_08122024193354851740369441",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
+STK Push Response: {
+    "MerchantRequestID": "aba0-4119-bd0a-28c60f0ef1ef504792",
+    "CheckoutRequestID": "ws_CO_08122024195205528722478859",
+    "ResponseCode": "0",
+    "ResponseDescription": "Success. Request accepted for processing",
+    "CustomerMessage": "Success. Request accepted for processing"
+}
